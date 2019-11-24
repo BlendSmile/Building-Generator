@@ -1,0 +1,10 @@
+C:\Users\ALIF\source\repos\BuildingGenerator\BuildingGenerator\obj\Debug\BuildingGenerator.csprojAssemblyReference.cache
+C:\Users\ALIF\source\repos\BuildingGenerator\BuildingGenerator\obj\Debug\BuildingGenerator.Form1.resources
+C:\Users\ALIF\source\repos\BuildingGenerator\BuildingGenerator\obj\Debug\BuildingGenerator.Properties.Resources.resources
+C:\Users\ALIF\source\repos\BuildingGenerator\BuildingGenerator\obj\Debug\BuildingGenerator.csproj.GenerateResource.cache
+C:\Users\ALIF\source\repos\BuildingGenerator\BuildingGenerator\obj\Debug\BuildingGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ALIF\source\repos\BuildingGenerator\BuildingGenerator\bin\Debug\BuildingGenerator.exe.config
+C:\Users\ALIF\source\repos\BuildingGenerator\BuildingGenerator\bin\Debug\BuildingGenerator.exe
+C:\Users\ALIF\source\repos\BuildingGenerator\BuildingGenerator\bin\Debug\BuildingGenerator.pdb
+C:\Users\ALIF\source\repos\BuildingGenerator\BuildingGenerator\obj\Debug\BuildingGenerator.exe
+C:\Users\ALIF\source\repos\BuildingGenerator\BuildingGenerator\obj\Debug\BuildingGenerator.pdb
